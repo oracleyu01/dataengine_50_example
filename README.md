@@ -6,7 +6,7 @@
 
 이 자료를 통해 **빅데이터 처리 기술을 익히고, 실무에서 바로 활용 가능한 기술 스택**을 갖추세요! 🚀  
 
-<img src="https://github.com/oracleyu01/python_class_dap/blob/main/data/data-engineering.png" width="600" height="400">
+<img src="https://github.com/oracleyu01/dataengine_50_example/blob/main/data/data-engineering.png" width="600" height="400">
 
 &nbsp;  
 ## ⚙️ 데이터 엔지니어링을 배워야 하는 이유
